@@ -1,2 +1,2 @@
-# sonar-qube-postgresql-docker
-Sonar Qube with PostgreSql Docker Compose
+# SonarQube with PostgreSql using Docker
+Detaylı kurulum için : 
